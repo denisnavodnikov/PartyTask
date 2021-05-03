@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Вечеринка</string>
+    <string name="birthday">Именины</string>
+    <string name="come_with_you">С Вами придут</string>
+    <string name="invited">Пригласил(а): %1$s</string>
+    <string name="inessa">Инесса</string>
+    <string name="error_loading">Загрузка не удалась</string>
+</resources>

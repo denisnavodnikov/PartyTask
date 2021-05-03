@@ -1,0 +1,36 @@
+{
+   "nameOfOrganizer": "Кристина",
+   "partyName": "Именины",
+   "partyImage": "https://birdinflight.imgix.net/wp-content/uploads/2020/07/imgonline-com-ua-Compressed-qKDLPAWVO2veK.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=630&h=421",
+   "organizerImage": "https://www.vokrug.tv/pic/news/6/c/e/9/6ce9818a5ae5b007187bf0d2028fee61.jpg",
+   "visitors":[
+      {
+         "name":"Брэд",
+         "imageUrl":"https://www.spletnik.ru/img/2020/04/olga/20200904-pitt-post.jpg"
+      },
+      {
+         "name":"Том",
+         "imageUrl":"https://www.vokrug.tv/pic/news/f/b/9/2/fb927aca1ca4a42d9bd46ce4e3330bdd.jpg"
+      },
+	  {
+         "name":"Генри",
+         "imageUrl":"https://www.vokrug.tv/pic/news/9/a/a/3/9aa3d8300786041083f8059a94201b5c.jpg"
+      },
+	  {
+         "name":"Джонни",
+         "imageUrl":"https://fs.kinomania.ru/file/person/4/2a/42a0e188f5033bc65bf8d78622277c4e.jpeg"
+      },
+	  {
+         "name":"Джейсон",
+         "imageUrl":"http://настоящий-рост-знаменитостей.рф/JStatham.jpg"
+      },
+	  {
+         "name":"Джим",
+         "imageUrl":"https://s1.vcdn.biz/static/f/2312197741/image.jpg"
+      },
+	  {
+         "name":"Роберт",
+         "imageUrl":"https://cleancoders.com/images/portraits/robert-martin.jpg"
+      }
+   ]
+}
